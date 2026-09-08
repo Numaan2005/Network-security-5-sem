@@ -17,7 +17,7 @@ To implement and analyze classical symmetric ciphers (Caesar and Vigenère) for 
 
 2. Encrypt the plaintext using a fixed shift with modulo 26, while preserving spaces and punctuation. Decrypt the ciphertext using the reverse shift and compare it with the original plaintext.
 
-   ![Ceasar_ciper Output 2](Outputs/cesar2.png)
+   ![Ceaser_ciper Output 2](Outputs/cesar2.png)
 
 ### Vigenère Cipher
 
@@ -25,7 +25,7 @@ To implement and analyze classical symmetric ciphers (Caesar and Vigenère) for 
 
    [View Vignere_cipher Code](Codes/Vignere_cipher.py)
 
-  ! [ Vignere_cipher Code Output 1](Outputs/vignere1.png)
+   ![ Vignere_cipher Code Output 1](Outputs/vignere1.png)
 
 4. Encrypt the plaintext using the repeating key, preserving spaces and punctuation without advancing the key. Decrypt the ciphertext using the same key and compare it with the original plaintext.
 
