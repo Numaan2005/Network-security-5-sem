@@ -11,7 +11,7 @@ To implement and analyze classical symmetric ciphers (Caesar and Vigenère) for 
 
 1. Open Python 3 in VS Code and run the Caesar cipher program. Provide the plaintext and required shift value as input.
 
-   [View Ceasar_ciper Code](Codes/Ceaserr_ciper.py)
+   [View Ceasar_ciper Code](Codes/Ceaser_ciper.py)
 
    ![Ceasar_ ciper Output 1](Outputs/ceasar1.png)
 
@@ -25,7 +25,7 @@ To implement and analyze classical symmetric ciphers (Caesar and Vigenère) for 
 
    [View Vignere_cipher Code](Codes/Vignere_cipher.py)
 
-   [ View Vignere_cipher Code Output 1](Outputs/vignere1.png)
+  ! [ Vignere_cipher Code Output 1](Outputs/vignere1.png)
 
 4. Encrypt the plaintext using the repeating key, preserving spaces and punctuation without advancing the key. Decrypt the ciphertext using the same key and compare it with the original plaintext.
 
