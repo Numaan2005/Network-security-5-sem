@@ -1,0 +1,38 @@
+def encrypt_caesar(text, shift):
+
+    result = ""
+
+    shift = shift % 26   #
+
+    for ch in text:
+
+        if ch.isalpha():
+
+            start = ord('A') if ch.isupper() else ord('a')
+
+            result += chr((ord(ch) - start + shift) % 26 + start)
+
+        else:
+
+            result += ch
+
+    return result
+
+
+def decrypt_caesar(text, shift):
+
+    return encrypt_caesar(text, -shift)
+
+
+message = input("Enter text: ")
+
+key = int(input("Enter shift value: "))
+
+encrypted = encrypt_caesar(message, key)
+
+decrypted = decrypt_caesar(encrypted, key)
+
+print("Encrypted:", encrypted)
+
+print("Decrypted:", decrypted)
+
