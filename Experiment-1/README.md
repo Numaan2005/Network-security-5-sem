@@ -23,7 +23,7 @@ To implement and analyze classical symmetric ciphers (Caesar and Vigenère) for 
 
 3. Run the Vigenère cipher program and provide the plaintext and alphabetic key as input.
 
-   [View Vigenere Cipher Code](Codes/Vigenere_cipher.py)
+   [View Vignere_cipher Code](Codes/Vignere_cipher.py)
 
    ![ Vignere_cipher Code Output 1](Outputs/vignere1.png)
 
