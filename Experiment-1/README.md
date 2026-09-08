@@ -29,7 +29,7 @@ To implement and analyze classical symmetric ciphers (Caesar and Vigenère) for 
 
 4. Encrypt the plaintext using the repeating key, preserving spaces and punctuation without advancing the key. Decrypt the ciphertext using the same key and compare it with the original plaintext.
 
-   ![Vignère_ cipher Output 2](Outputs/Vignere2.png)
+   ![Vignere_cipher Output 2](Outputs/vignere2.png)
 
 5. Run test cases for both ciphers and verify the decrypted messages.
 
