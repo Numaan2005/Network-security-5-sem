@@ -13,7 +13,7 @@ To implement and analyze classical symmetric ciphers (Caesar and Vigenère) for 
 
    [View Ceaser_ciper Code](Codes/Ceaser_ciper.py)
 
-   ![Ceasar_ ciper Output 1](Outputs/ceasar1.png)
+   ![Ceasar_ciper Output 1](Outputs/ceasar1.png)
 
 2. Encrypt the plaintext using a fixed shift with modulo 26, while preserving spaces and punctuation. Decrypt the ciphertext using the reverse shift and compare it with the original plaintext.
 
