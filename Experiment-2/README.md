@@ -34,7 +34,7 @@ Data integrity ensures that data has not been altered or tampered with. It can b
    
 [View SHA-256 Python Code](code/Sha256_hash.py)
 
-   ![SHA-256 Hash Output](Outputs/sha256.jpeg)
+   ![SHA-256 Hash Output](Output/sha256.jpeg)
   
 
 ## Result
