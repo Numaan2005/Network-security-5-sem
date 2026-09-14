@@ -33,7 +33,8 @@ Data integrity ensures that data has not been altered or tampered with. It can b
 6. Compare the original and modified hashes character by character and count the differing hash characters
    
 [View SHA-256 Python Code](code/Sha256_hash.py)
-   ![SHA-256 Hash Output](Outputs/sha256.png)
+
+   ![SHA-256 Hash Output](Outputs/sha256.jpeg)
   
 
 ## Result
