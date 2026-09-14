@@ -31,10 +31,10 @@ Data integrity ensures that data has not been altered or tampered with. It can b
 5. Generate the SHA-256 hash of the modified file and compare it with the trusted hash to detect whether the file was changed.
 
 6. Compare the original and modified hashes character by character and count the differing hash characters.
+View SHA-256 Python Code](Codes/sha256_hash.py)
 
-   [View Sha256_hash.py](Codes/Sha256_hash.py)
-
-   ![sha256.jpeg](/output/sha256.jpeg)
+   ![SHA-256 Hash Output](outputs/sha256.png)
+  
 
 ## Result
 
