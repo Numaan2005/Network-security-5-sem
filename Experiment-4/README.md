@@ -205,7 +205,7 @@ The script is available in the `Codes` folder as:
 
 Contains the OpenSSL commands used throughout the experiment along with comments explaining their purpose.
 
-### [`Validate_certificate.sh`](Codes/Validate_certificate.sh)
+### [`Validate_certificate.sh`](Codes/validate_certificate.sh)
 
 Contains the Bash script developed as the improvement to automate certificate validation.
 
