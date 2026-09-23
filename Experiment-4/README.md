@@ -62,7 +62,7 @@ The OpenSSL installation was checked and a separate working directory was create
 
 The working directory was used to store the private key and certificate generated during the experiment.
 
-![Step 1: OpenSSL setup](Outputs/ss1.png)
+![Step 1: OpenSSL setup](Outputs/ssl1.jpeg)
 
 ---
 
@@ -76,7 +76,7 @@ The validation produced the result:
 
 **Key is valid**
 
-![Step 2: Private key generation and validation](Outputs/ss2.png)
+![Step 2: Private key generation and validation](Outputs/ssl2.jpeg)
 
 ---
 
