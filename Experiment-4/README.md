@@ -76,7 +76,7 @@ The validation produced the result:
 
 **Key is valid**
 
-![Step 2: Private key generation and validation](Outputs/ssl2.jpeg)
+![Step 2: Private key generation and validation](Outputs/ssl2.png)
 
 ---
 
