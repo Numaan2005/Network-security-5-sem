@@ -223,7 +223,7 @@ The `Outputs` folder contains:
 - `ss6.png` — Certificate verification and key matching
 - `ss7.png` — Automated certificate validation
 - `certificate.crt` — Generated X.509 certificate
-- `tanish.key` — RSA private key used for certificate generation
+- `numan.key` — RSA private key used for certificate generation
 
 ---
 
