@@ -204,11 +204,11 @@ This improvement demonstrated the importance of SSH host-key verification in det
 
 ### Code Files
 
-#### [`server_commands.sh`](Codes/server_commands.sh)
+#### [`server_commands.sh`](Codes/Server_commands.sh)
 
 Contains the Ubuntu-side commands used to install and start the OpenSSH server, check the service status, verify that SSH is listening on port 22, inspect server information, and display the server's SSH host-key fingerprint.
 
-#### [`client_commands.sh`](Codes/client_commands.sh)
+#### [`client_commands.sh`](Codes/Client_commands.sh)
 
 Contains the Kali Linux commands used to check the SSH client, establish remote connections, generate and inspect the Ed25519 key pair, configure permissions, copy the public key, test public-key authentication, and use the SSH agent.
 
