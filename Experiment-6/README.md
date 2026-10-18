@@ -149,7 +149,7 @@ The client's public-key fingerprint was examined using:
 
 These commands were used to inspect the generated key files and identify the client's public key by its fingerprint.
 
-![Step 5: SSH key pair generation](Outputs/ss5.png)
+![Step 5: SSH key pair generation](Outputs/ss5.1.png)
 
 ---
 
