@@ -106,7 +106,7 @@ An Ed25519 SSH key pair was generated on Kali Linux using:
 
 The key-generation process created a private key and a corresponding public key in the client's `.ssh` directory. The private key was retained on Kali Linux, while the public key was used for server-side authorization.
 
-![Step 3: SSH key pair generation](Outputs/ss3.1.png)
+![Step 3: SSH key pair generation](Outputs/ss3.png)
 
 The generated key files were then examined using:
 
@@ -118,7 +118,7 @@ The public-key fingerprint was displayed using:
 
 This provided a way to inspect the generated key files and identify the client's public key by its fingerprint.
 
-![Step 3: Key files and public-key fingerprint](Outputs/ss3.2.png)
+![Step 3: Key files and public-key fingerprint](Outputs/ss3.1.png)
 
 ---
 
