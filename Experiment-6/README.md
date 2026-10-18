@@ -167,7 +167,7 @@ The public key was then transferred to the Ubuntu account using:
 
 This command added the public key to the account's `authorized_keys` file, allowing the server to authorize authentication using the corresponding private key.
 
-![Step 6: SSH key permission configuration and public-key installation](Outputs/ss5.2.png)
+![Step 6: SSH key permission configuration and public-key installation](Outputs/ss5.2.pmg)
 
 ---
 
