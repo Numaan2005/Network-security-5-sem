@@ -154,7 +154,7 @@ The public-key authentication process was then tested with password authenticati
 
 After connecting, the `whoami` and `hostname` commands were executed inside the Ubuntu shell to verify the remote account and server. The `exit` command was used to return to Kali Linux.
 
-![Step 5: Public-key authentication test](Outputs/ss5.2.png)
+![Step 5: Public-key authentication test](Outputs/ss5.1.png)
 
 ---
 
