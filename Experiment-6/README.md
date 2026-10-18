@@ -111,7 +111,7 @@ The Kali Linux client was used to connect to the Ubuntu server using:
 
 After verifying the server's host-key fingerprint, the Ubuntu account password was entered to establish the remote shell.
 
-![Step 3: Password-based SSH connection](Outputs/ss3.1.png)
+![Step 3: Password-based SSH connection](Outputs/ss3.png)
 
 ---
 
@@ -125,7 +125,7 @@ Inside the SSH session, the following commands were executed:
 
 These commands verified that the SSH session provided access to the intended remote system. The `exit` command was then used to return to Kali Linux.
 
-![Step 4: Verify the Remote Shell](Outputs/ss3.2.png)
+![Step 4: Verify the Remote Shell](Outputs/ss3.1.png)
 
 ![Step 4: Verify the Remote Shell](Outputs/ss4.png)
 
